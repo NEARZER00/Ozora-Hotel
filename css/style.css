@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body {
+	background-image: url("../img/background.jpg");
+    width: 990px; 
+    height: 7150px; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.title  {
+    display: block;
+    background-position: absolute;
+    margin: -10px 40px 0px 765.5px;
+    object-fit: contain;
+    display: block;
+}
+
+.foto {
+    background-position: center;
+    margin: -540px -1px 0px 940px;
+    background-attachment: fixed;
+}
+
+.image {
+    position: relative;
+    margin: 0px -1000px 1000px 970px;
+    top: -2.4%;
+}
+
+.img {
+    position: relative;
+    top: -0.6%;
+    margin: 0px 100% 2% 940px;
+}
+
+.color {
+    position: relative;
+    top: -14.5%;
+    margin: 0px 100% 2% 765px;
+}
+
+.mix   {
+    position: relative;
+    top: -16.33%;
+    margin: 0px 100% 2% 1023px;
+}
+.kill {
+    position: relative;
+    top: -18.16%;
+    margin: 0px 100% 2% 1255px;
+}
+
+.loop {
+    position: relative;
+    top: -20%;
+    width: 50px;
+    margin: 0px 100% 2% 1540px;
+}
+.loope {
+    position: relative;
+    top: -19.2%;
+    width: 50px;
+    margin: 0px 100% 90% 933px;
+}
+
+.lope {
+    position: relative;
+    top: -33.55%;
+    width: 50px;
+    margin: 0px 100% 90% 930px;
+}
+
+.mixed {
+    position: relative;
+    top: -41%;
+    margin: 0px 100% 90% 910px;
+}
+
+.meme {
+    position: relative;
+    top: -53.5%;
+    margin: 0px 100% 90% 950px;
+}
+.gig {
+    position: relative;
+    top: -66.8%;
+    margin: 0px 100% 90% 952px;
+}
+
+.fav {
+    position: relative;
+    top: -87%;
+    margin: 0px 100% 90% 1000px;
+}
+
+.favo {
+    position: relative;
+    top: -96.9%;
+    margin: 0px 100% 90% 995px;
+}
+
+.mem {
+    position: relative;
+    top: -113.2%;
+    margin: 0px 100% 90% 1150px;
+}
+
+.que {
+    position: relative;
+    top: -122.2%;
+    margin: 0px 100% 90% 1150px;
+}
+
+
+
+
+
+
+
+
+
+
+
