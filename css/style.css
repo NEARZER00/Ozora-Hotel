@@ -59,14 +59,14 @@ body {
 }
 .loope {
     position: relative;
-    top: -19.2%;
+    top: -19.8%;
     width: 50px;
     margin: 0px 100% 90% 933px;
 }
 
 .lope {
     position: relative;
-    top: -33.55%;
+    top: -34.15%;
     width: 50px;
     margin: 0px 100% 90% 930px;
 }
@@ -111,6 +111,113 @@ body {
     top: -122.2%;
     margin: 0px 100% 90% 1150px;
 }
+
+.button1 {
+    position: relative;
+    top: -138.50%;
+    margin: 0px 100% 90% 1141px;
+}
+
+.button2 {
+    position: relative;
+    top: -148.50%;
+    margin: 0px 100% 90% 1141px;
+}
+
+.button1 img:hover {
+    transform: rotate(0deg);
+    scale: 1.1;
+    transition: 0.5s;
+}
+
+.button2 img:hover {
+    transform: rotate(0deg);
+    scale: 1.1;
+    transition: 0.5s;
+}
+
+.huruflayer3 {
+    position: relative;
+    top: -158.80%;
+    margin: 0px 100% 90% 915px;
+}
+
+.huruflayer31 {
+    position: relative;
+    top: -165.0%;
+    margin: 0px 100% 90% 905px;
+}
+
+.valetinelayer3 {
+    position: relative;
+    top: -176.20%;
+    margin: 0px 100% 90% 930px;
+}
+.huruflayer32 {
+    position: relative;
+    top: -191.60%;
+    margin: 0px 100% 90% 1075px;
+}
+
+.garispanjang3 {
+    position: relative;
+    top: -203.97%;
+    margin: 0px 100% 90% 1200px;
+}
+
+.button3 {
+    position: relative;
+    top: -216.55%;
+    margin: 0px 100% 100% 1190px;
+}
+
+.button3 img:hover {
+    transform: rotate(0deg);
+    scale: 1.1;
+    transition: 0.5s;
+}
+
+.huruflayer4 {
+    position: relative;
+    top: -226%;
+    margin: 0px 100% 100% 950px;
+}
+
+.huruflayer41 {
+    position: relative;
+    top: -231.60%;
+    margin: 0px 100% 100% 875px;
+}
+
+.valetinelayer4 {
+    position: relative;
+    top: -244%;
+    margin: 0px 100% 100% 810px;
+}
+
+.valetinelayer41 {
+    position: relative;
+    top: -257.00%;
+    margin: 0px 100% 100% 825px;
+}
+
+.huruflayer42 {
+    position: relative;
+    top: -281.30%;
+    margin: 0px 100% 100% 900px; 
+}
+
+.huruflayer43 {
+    position: relative;
+    top: -291.00%;
+    margin: 0px 100% 100% 850px;
+}
+
+
+
+
+
+
 
 
 
