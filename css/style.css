@@ -6,122 +6,120 @@ body {
     height: 7150px; 
     background-repeat: no-repeat;
     background-position: center;
+    margin: 0 auto;
 }
 
 .title  {
-    display: block;
     background-position: absolute;
-    margin: -10px 40px 0px 765.5px;
     object-fit: contain;
-    display: block;
 }
 
 .foto {
     background-position: center;
-    margin: -540px -1px 0px 940px;
+    margin: -540px -1px 0px 180px;
     background-attachment: fixed;
 }
 
 .image {
     position: relative;
-    margin: 0px -1000px 1000px 970px;
+    margin: 0px -1000px 1000px 205px;
     top: -2.4%;
 }
 
 .img {
     position: relative;
     top: -0.6%;
-    margin: 0px 100% 2% 940px;
+    margin: 0px 100% 2% 180px;
 }
 
 .color {
     position: relative;
-    top: -14.5%;
-    margin: 0px 100% 2% 765px;
+    top: -14.513%;
+    margin: 0px 100% 2% 0px;
 }
 
 .mix   {
     position: relative;
-    top: -16.33%;
-    margin: 0px 100% 2% 1023px;
+    top: -16.335%;
+    margin: 0px 100% 2% 258px;
 }
 .kill {
     position: relative;
     top: -18.16%;
-    margin: 0px 100% 2% 1255px;
+    margin: 0px 100% 2% 489px;
 }
 
 .loop {
     position: relative;
-    top: -20%;
+    top: -19.984%;
     width: 50px;
-    margin: 0px 100% 2% 1540px;
+    margin: 0px 100% 2% 774px;
 }
 .loope {
     position: relative;
     top: -19.8%;
     width: 50px;
-    margin: 0px 100% 90% 933px;
+    margin: 0px 100% 90% 161px;
 }
 
 .lope {
     position: relative;
-    top: -34.15%;
+    top: -34.11%;
     width: 50px;
-    margin: 0px 100% 90% 930px;
+    margin: 0px 100% 90% 158px;
 }
 
 .mixed {
     position: relative;
     top: -41%;
-    margin: 0px 100% 90% 910px;
+    margin: 0px 100% 90% 145px;
 }
 
 .meme {
     position: relative;
     top: -53.5%;
-    margin: 0px 100% 90% 950px;
+    margin: 0px 100% 90% 190px;
 }
 .gig {
     position: relative;
     top: -66.8%;
-    margin: 0px 100% 90% 952px;
+    margin: 0px 100% 90% 190px;
 }
 
 .fav {
     position: relative;
     top: -87%;
-    margin: 0px 100% 90% 1000px;
+    margin: 0px 100% 90% 240px;
 }
 
 .favo {
     position: relative;
     top: -96.9%;
-    margin: 0px 100% 90% 995px;
+    margin: 0px 100% 90% 230px;
 }
 
 .mem {
     position: relative;
     top: -113.2%;
-    margin: 0px 100% 90% 1150px;
+    margin: 0px 100% 90% 410px;
 }
 
 .que {
     position: relative;
-    top: -122.2%;
-    margin: 0px 100% 90% 1150px;
+    top: -122.16%;
+    margin: 0px 100% 90% 410px;
 }
 
 .button1 {
     position: relative;
     top: -138.50%;
-    margin: 0px 100% 90% 1141px;
+    margin: 0px 100% 90% 400px;
 }
 
 .button2 {
     position: relative;
     top: -148.50%;
-    margin: 0px 100% 90% 1141px;
+    margin: 0px 100% 90% 400px;
 }
 
 .button1 img:hover {
@@ -139,36 +137,36 @@ body {
 .huruflayer3 {
     position: relative;
     top: -158.80%;
-    margin: 0px 100% 90% 915px;
+    margin: 0px 100% 90% 150px;
 }
 
 .huruflayer31 {
     position: relative;
     top: -165.0%;
-    margin: 0px 100% 90% 905px;
+    margin: 0px 100% 90% 140px;
 }
 
 .valetinelayer3 {
     position: relative;
     top: -176.20%;
-    margin: 0px 100% 90% 930px;
+    margin: 0px 100% 90% 150px;
 }
 .huruflayer32 {
     position: relative;
     top: -191.60%;
-    margin: 0px 100% 90% 1075px;
+    margin: 0px 100% 90% 295px;
 }
 
 .garispanjang3 {
     position: relative;
     top: -203.97%;
-    margin: 0px 100% 90% 1200px;
+    margin: 0px 100% 90% 430px;
 }
 
 .button3 {
     position: relative;
     top: -216.55%;
-    margin: 0px 100% 100% 1190px;
+    margin: 0px 100% 100% 420px;
 }
 
 .button3 img:hover {
@@ -180,38 +178,114 @@ body {
 .huruflayer4 {
     position: relative;
     top: -226%;
-    margin: 0px 100% 100% 950px;
+    margin: 0px 100% 100% 190px;
 }
 
 .huruflayer41 {
     position: relative;
     top: -231.60%;
-    margin: 0px 100% 100% 875px;
+    margin: 0px 100% 100% 120px;
 }
 
 .valetinelayer4 {
     position: relative;
     top: -244%;
-    margin: 0px 100% 100% 810px;
+    margin: 0px 100% 100% 40px;
 }
 
 .valetinelayer41 {
     position: relative;
     top: -257.00%;
-    margin: 0px 100% 100% 825px;
+    margin: 0px 100% 100% 50px;
 }
 
 .huruflayer42 {
     position: relative;
     top: -281.30%;
-    margin: 0px 100% 100% 900px; 
+    margin: 0px 100% 100% 140px; 
 }
 
 .huruflayer43 {
     position: relative;
     top: -291.00%;
-    margin: 0px 100% 100% 850px;
+    margin: 0px 100% 100% 90px;
 }
+
+.huruflayer5 {
+    position: relative;
+    top: -300.80%;
+    margin: 0px 100% 100% 163px;
+}
+.huruflayer51 {
+    position: relative;
+    top: -315.35%;
+    margin: 0px 100% 100% 160px;
+}
+
+.huruflayer53 {
+    position: relative;
+    top: -321%;
+    margin: 0px 100% 100% 45px;
+}
+
+.huruflayer54 {
+    position: relative;
+    top: -333.15%;
+    margin: 0px 100% 100% 37px;
+}
+
+.bingkailayer5 {
+    position: relative;
+    top: -349.95%;
+    margin: 0px 100% 100% 580px;
+}
+
+.huruflayer55 {
+    position: relative;
+    top: -366%;
+    margin: 0px 100% 100% 620px;
+}
+
+.bintang {
+    position: relative;
+    top: -381.70%;
+    margin: 0px 100% 100% 677px;
+}
+
+.papanlayer6 {
+    position: relative;
+    top: -392.70%;
+    margin: 0px 100% 100% 210px;
+}
+
+.huruflayer6 {
+    position: relative;
+    top: -409%;
+    margin: 0px 100% 100% 260px;
+}
+
+.lovekiri {
+    position: relative;
+    top: -416.60%;
+    margin: 0px 100% 100% 50px;
+}
+
+.lovekanan {
+    position: relative;
+    top: -431.85%;
+    margin: 0px 100% 100% 725px;
+}
+
+.huruflayer61 {
+    position: relative;
+    top: -452.50%;
+    margin: 0px 100% 100% 58px;
+}
+
+
+
+
+
 
 
 
